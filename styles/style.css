@@ -311,3 +311,43 @@ input[type="email"] {
     right: 3px;
     top: 1px
 }
+
+
+/* footer section style  */
+
+
+
+
+.footer-section {
+    margin-top: 120px;
+    background: #070211;
+
+    padding: 140px 140px;
+}
+
+address {
+    font-style: normal;
+}
+
+.footer-section .address1 {
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.footer-section .icon {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin: 50px auto;
+  
+}
+
+hr {
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
