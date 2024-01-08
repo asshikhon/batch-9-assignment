@@ -22,7 +22,7 @@
 
 .primary-description {
     color: rgba(7, 2, 17, 0.60);
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 20px;
     line-height: 32px;
 }
@@ -46,7 +46,7 @@
 .banner>h5 {
     color: #FFF;
     text-align: center;
-    font-family: Merriweather;
+    font-family: 'Merriweather', serif;
     font-size: 32px;
     padding-top: 177px;
     margin-bottom: 0;
@@ -57,7 +57,7 @@
     width: 632px;
     margin: 16px auto;
     text-align: center;
-    font-family: Merriweather;
+    font-family: 'Merriweather', serif;
     font-size: 72px;
     font-weight: 900;
 }
@@ -78,7 +78,7 @@
 
 .new-year>h1 {
     color: #F00;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 88px;
 }
 
@@ -90,7 +90,7 @@
     color: #070211;
     text-align: center;
     margin-bottom: 48px;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 48px;
     font-weight: 700;
 }
@@ -114,7 +114,7 @@
 
 .midnight-h1{
     color: #FFF;
-    font-family: Merriweather;
+    font-family: 'Inter', sans-serif;
     font-size: 64px;
     font-weight: 900;
     line-height: 88px;
@@ -124,7 +124,7 @@
 
 .midnight-p {
     color: rgba(255, 255, 255, 0.80);
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 18px;
     margin-bottom: 48px;
 }
@@ -142,7 +142,7 @@
     background-color: #070211;
     border: none;
     color: #FFF;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 20px;
     font-weight: 700;
     position: relative;
@@ -166,7 +166,7 @@
 
 .titleinfo {
     color: #070211;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 32px;
     font-weight: 600;
     line-height: 56px;
@@ -175,7 +175,7 @@
 .join-button{
     color: #FFF;
     text-align: center;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 20px;
     font-weight: 700;
     border: 0;
@@ -204,7 +204,7 @@
     gap: 30px;
 }
 
-.offer-div {
+.offer-di {
     width: 550px;
 }
 
@@ -221,7 +221,7 @@
 
 .div-h3 {
     color: #F00;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 48px;
     font-weight: 700;
     margin-bottom: 16px;
