@@ -185,3 +185,50 @@
     margin-top: 64px;
 }
 
+
+/* bonous section styles  */
+
+
+.offer-container {
+    margin-top: 120px;
+    display: flex;
+    align-items: last baseline;
+    gap: 100px;
+    background: #FFF;
+}
+
+.offer-img {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.offer-div {
+    width: 550px;
+}
+
+.div-img img {
+    width: 75%;
+    border-radius: 463px;
+    padding: 50px;
+    border: 15px solid #F00;
+}
+
+.right-div {
+    width: 50%;
+}
+
+.div-h3 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+.right-div>img {
+    margin-top: 43px;
+}
+
+
