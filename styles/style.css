@@ -243,32 +243,61 @@ text-transform: capitalize;
 .right-div>img {
     margin-top: 43px;
 }
+/* holidays sale section styles */
 
-/* Holidays sale (optional) section styles */
-
-/* .holidays-container{
+.holidays-container {
+margin-top: 120px;
 
 }
 
-.text-container{
-    text-align: center;
+.text-container {
+  text-align: center;
 }
 
-
-.h3-title{
-    color: #070211;
-    font-family: 'Inter', sans-serif;
-font-size: 24px;
-font-weight: 500;
+.h3-title {
+  color: #070211;
+  font-family: "Inter", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
 }
 
-.double-image{
-display: overle;
-overflow-clip-margin: ;
-over
+.box-discount {
+  margin-top: 60px;
 
-} */
+  height: 650px;
 
+  width: 100%;
+
+  background-image: url("../images/Rectangle-2.png"),
+    url(../images/Rectangle-1.png);
+    
+  background-position: center  bottom, right 10.6% top  ;
+margin-right: auto, auto;
+margin-left: auto, auto;
+  background-repeat: no-repeat;
+padding-top: 400px, 0;
+
+}
+
+.box-discount .box-position #img50 {
+  width: 300px;
+
+  padding-left: 450px;
+
+  padding-top: 20px;
+  margin-left: 410px;
+  margin-top: 65px;
+}
+
+.box-discount .box-position2 #img75 {
+  width: 400px;
+margin-bottom:150px;
+  padding-bottom: 60px;
+  position: ;
+  margin-left: 300px;
+ padding-bottom: 100px;
+
+}
 
 
 

@@ -1,0 +1,54 @@
+/* Holidays sale (optional) section styles */
+
+.holidays-container {
+
+}
+
+.text-container {
+  text-align: center;
+}
+
+.h3-title {
+  color: #070211;
+  font-family: "Inter", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.box-discount {
+  margin-top: 60px;
+
+  height: 650px;
+
+  width: 100%;
+
+  background-image: url("../images/Rectangle-2.png"),
+    url(../images/Rectangle-1.png);
+
+  /* background-position: center bottom, right top; */
+  background-position: center  bottom, right 19.5% top  ;
+margin-right: auto, auto;
+margin-left: auto, auto;
+  background-repeat: no-repeat;
+padding-top: 400px, 0;
+}
+
+.box-discount .box-position #img50 {
+  width: 300px;
+
+  padding-left: 450px;
+
+  padding-top: 20px;
+  margin-left: 570px;
+  margin-top: 65px;
+}
+
+.box-discount .box-position2 #img75 {
+  width: 400px;
+margin-bottom:150px;
+  padding-bottom: 60px;
+  position: ;
+  margin-left: 450px;
+  /* padding-top:-1000px ; */
+  display: grid;
+}
